@@ -10,7 +10,7 @@ The site is built with HTML and CSS and is intended to be published using GitHub
 
 - `index.html` — portfolio homepage
 - `assets/shruti-profile.jpeg` — profile photo
-- `assets/Shruti_Resume.pdf` — résumé download
+- `resume.html` — résumé page with print / save as PDF
 
 ## Areas of interest
 
